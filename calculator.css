@@ -82,6 +82,5 @@ color: white;
 
 }
 body{
-    background-image: url(bg02.png);
-    background-repeat : none;
+    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
 }
