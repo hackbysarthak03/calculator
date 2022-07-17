@@ -83,5 +83,5 @@ color: white;
 }
 body{
     background-image: url(bg02.png);
-   
+    background-repeat : none;
 }
