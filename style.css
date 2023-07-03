@@ -1,0 +1,87 @@
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+    
+
+}
+input{
+    width: 361px;
+height: 70px;
+font-size: 38px;
+    border-radius: 7px;
+    margin: 40px;
+    background-color: rgb(230, 230, 17);
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px solid red;
+}
+button{
+    height: 60px;
+    width: 90px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin: 0px;
+    z-index: 1;
+    background-color: rgb(5, 5, 252);
+    color:white;
+    transition:0.5s;
+    border:2px solid rgb(0, 0, 0);
+    font-weight: bold;
+}
+button:hover{
+    background-color:yellow;
+    color: white;
+    cursor: pointer;
+    width: 80px;
+    height: 58px;
+    border-radius: 14px;
+    font-size: 45px;
+    color: black;
+    font-weight: bold;
+    
+}
+.num{
+    background-color: rgb(23, 27, 65);
+    border:4px solid yellow;
+}
+#clear{
+    background-color: red;
+}
+.calcu{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#clear:hover{
+color: white;
+}
+.calc{
+    margin-top: 20px;
+    border: 10px solid black;
+    padding: 5px;
+    display: inline-block;
+    background-color:rgb(0, 0, 0);
+    opacity:0.8;
+    border-radius: 40px;
+    transition: 0.3s;
+   
+
+}
+
+#equal{
+    background-color: rgb(9, 245, 9);
+    color: black;
+    font-size: 45px;
+    border:3px solid rgb(213, 250, 3);
+}
+#equal:hover{
+    background-color: greenyellow;
+
+}
+body{
+    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
